@@ -8,13 +8,13 @@
 
   4. git clone https://github.com/alexdanca341341/vnc-google-shell.git
      
-     1 . cd setup-vnc-google 
-     2 . cp vnc.py ../
-     3 . cd
+     1. cd setup-vnc-google 
+     2. cp vnc.py ../
+     3. cd
 
   5. python vnc.py
 
-  6. https://remotedesktop.google.com/head...
+  6. https://remotedesktop.google.com/headless
 
   7. click begin , click before , click authorize
   
@@ -32,7 +32,7 @@
 
  cat firefox
 
- 1. https://download.mozilla.org/?product...
+ 1. https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US
 
  2. upload on google console
 
@@ -46,13 +46,13 @@
 
  github
 
-https://github.com/alexdanca/setup-vn...
+https://github.com/alexdanca341341/vnc-google-shell.git
 
 
 console restart / reset:
 
 1. python vnc.py
-2.https://remotedesktop.google.com/head... 3. click begin , click before , click authorize
+2.https://remotedesktop.google.com/headless 3. click begin , click before , click authorize
 4. copy "Debian Linux" and paste on terminal/shell google console
 5. https://remotedesktop.google.com/access
 
