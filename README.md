@@ -57,5 +57,7 @@ console restart / reset:
 5. https://remotedesktop.google.com/access
 
 firefox:
+
 cd firefox
+
 ./firefox
