@@ -1,4 +1,4 @@
-# vnc-google-shell
+# vnc-google-shell CHROME DESKTOP
 
   1. https://console.cloud.google.com/home/dashboard
   
