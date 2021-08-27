@@ -46,7 +46,7 @@
 
  github
 
-https://github.com/alexdanca341341/vnc-google-shell.git
+https://github.com/alexdanca341341/vnc-google-shell
 
 
 console restart / reset:
