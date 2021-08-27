@@ -8,9 +8,9 @@
 
   4. git clone https://github.com/alexdanca341341/vnc-google-shell.git
      
-     1. cd setup-vnc-google 
-     2. cp vnc.py ../
-     3. cd
+     1 . cd setup-vnc-google 
+     2 . cp vnc.py ../
+     3 . cd
 
   5. python vnc.py
 
