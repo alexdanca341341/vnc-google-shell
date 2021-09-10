@@ -6,7 +6,7 @@ cmd = 'sudo apt-get install --assume-yes ./chrome-remote-desktop_current_amd64.d
 os.system(cmd)
 cmd = 'sudo apt install --assume-yes xfce4 desktop-base dbus-x11 xscreensaver'
 os.system(cmd)
-cmd = 'sudo apt install xfce4-terminal
+cmd = 'sudo apt install xfce4-terminal'
 os.system(cmd)
 cmd = 'sudo apt install firefox-esr'
 os.system(cmd)
